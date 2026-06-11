@@ -1,54 +1,113 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# Ex.No.3 - Scenario-Based Report Development Utilizing Diverse Prompting Technique
 
-# DATE:                                                                            
+---
 
-# REGISTER NUMBER : 
+## REGISTER NUMBER:212224230016
 
-# Aim: To write the prompts for these following prompt types and evaluate that using any one method 
+---
 
-1. Straightforward Prompts
+## AIM
 
-2. Tabular Format Prompting
+To write prompts for different Prompt Engineering types namely Straightforward Prompting, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting, and evaluate their effectiveness using a selected use case.
 
-3. Preceding Question Prompting
+## USE CASE
 
-4. Missing Word Prompting
+**RF Compliance Testing and Certification** (Unit 5)
 
-# Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
+RF Compliance Testing ensures that wireless communication devices meet regulatory standards related to electromagnetic compatibility (EMC), radio frequency interference (RFI), and safety requirements before deployment.
 
-Procedure:
+---
 
-1.	Straightforward Prompts:
-   
-    - •	"Define photosynthesis in one sentence."
+## 1. Straightforward Prompting
 
-  	 - 	"List three advantages of electric vehicles."
+### Prompt
 
- 3.	Tabular Format Prompting:
+"Define RF Compliance Testing in one sentence."
 
-   	 •	"Compare and contrast AC and DC current in a table."
+### Response
 
-   	 •	"Provide a table listing five programming languages, their paradigms, and one use case each."
+RF Compliance Testing is the process of verifying that radio frequency devices meet regulatory standards for safety, performance, and electromagnetic compatibility.
 
-3. Preceding Question Prompting:
+### Evaluation
 
-    •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
+* Simple and direct response.
+* Provides accurate information.
+* Suitable for quick understanding.
 
-   •	"How do vaccines work? Describe the process of immunization in simple terms."
+---
 
-5. Missing Word Prompting:
+## 2. Tabular Format Prompting
 
-   •	"The capital of France is ____."
+### Prompt
 
-   •	"In photosynthesis, plants absorb sunlight to produce ____."
+"Provide a table comparing EMC Testing and RFI Testing."
 
+### Response
 
-# OUTPUT: 
+| Feature     | EMC Testing                                         | RFI Testing                                |
+| ----------- | --------------------------------------------------- | ------------------------------------------ |
+| Purpose     | Ensures device compatibility with other electronics | Measures interference caused by RF signals |
+| Focus       | Electromagnetic emissions and immunity              | Radio frequency interference               |
+| Application | Electronic systems and devices                      | Wireless communication systems             |
+| Standard    | EMC regulations                                     | RF regulatory requirements                 |
 
+### Evaluation
 
-# RESULT: The various types of Prompts are executed successfully with generated the report.
+* Information is well organized.
+* Easy to compare concepts.
+* Improves readability and understanding.
 
+---
 
+## 3. Preceding Question Prompting
 
+### Prompt
 
+"Why is RF Compliance Testing important? Explain how it helps in obtaining certification for wireless devices."
 
+### Response
+
+RF Compliance Testing is important because it ensures that wireless devices operate safely without causing harmful interference to other electronic equipment. The testing process verifies compliance with national and international regulations, helping manufacturers obtain certification and market approval for their products.
+
+### Evaluation
+
+* Provides detailed explanation.
+* Establishes context before answering.
+* Improves clarity and completeness.
+
+---
+
+## 4. Missing Word Prompting
+
+### Prompt
+
+"RF Compliance Testing ensures that devices meet ______ requirements."
+
+### Response
+
+RF Compliance Testing ensures that devices meet **regulatory** requirements.
+
+### Evaluation
+
+* Useful for learning and assessments.
+* Tests knowledge effectively.
+* Generates concise responses.
+
+---
+
+## COMPARISON OF PROMPT TYPES
+
+| Prompt Type        | Accuracy | Simplicity | Detail Level | Best Use             |
+| ------------------ | -------- | ---------- | ------------ | -------------------- |
+| Straightforward    | High     | High       | Low          | Quick definitions    |
+| Tabular Format     | High     | High       | Medium       | Comparisons          |
+| Preceding Question | High     | Medium     | High         | Explanations         |
+| Missing Word       | Medium   | High       | Low          | Learning and quizzes |
+
+## OUTPUT
+
+The prompts were executed successfully for the selected Unit 5 use case (RF Compliance Testing and Certification). Different prompting techniques generated responses with varying levels of detail, structure, and effectiveness.
+
+## RESULT
+
+The various types of Prompts are executed successfully and the report is generated. The experiment demonstrates that different prompting techniques are suitable for different tasks, with Tabular Format Prompting improving comparison, Preceding Question Prompting providing detailed explanations, Straightforward Prompting offering concise answers, and Missing Word Prompting supporting learning and assessment activities.
